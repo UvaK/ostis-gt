@@ -1,8 +1,6 @@
-repo/fs_repo/
 .project
 .pydevproject
-MyGUI.log
-Ogre.log
+*.log
 components/
 docs/
 make_exe/
@@ -13,5 +11,7 @@ operations/
 plugins.cfg
 plugins/
 resources.cfg
-srs.log
 start.py
+repo/fs_repo/
+repo/repoBuilder/*.pyc
+repo/repoBuilder/*.log
