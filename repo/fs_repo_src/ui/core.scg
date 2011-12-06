@@ -1,0 +1,9 @@
+#include "ordinal.scsy"
+#include "meta_info.scsy"
+#include "ui_keynodes.scsy"
+core_src\geomx.gwf
+core_src\scgx.gwf
+core_src\spacex.gwf
+core_src\ui_keynodes.gwf
+core_src\voice.gwf
+

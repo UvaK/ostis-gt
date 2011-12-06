@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="1.6">
+    <staticSector>
+        <node type="node/const/general_node" idtf="" shapeColor="193" id="11771680" parent="0" x="506" y="299" haveBus="false">
+            <content type="4" mime_type="image/png" file_name="scg.png"><![CDATA[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]]></content>
+        </node>
+        <node type="node/const/group" idtf="SCGx" shapeColor="0" id="11774128" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="207" y="115" haveBus="true">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/asymmetry" idtf="" shapeColor="0" id="11773984" parent="0" x="391" y="184" haveBus="true">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="идентификация*" shapeColor="0" id="11773840" parent="0" left="0" top="0" right="109" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="299" y="115" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="Русский язык" shapeColor="0" id="11773696" parent="0" left="0" top="0" right="86" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="621" y="207" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="11773552" parent="0" x="506" y="253" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[format scg]]></content>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="11773120" parent="0" x="506" y="207" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[формат scg]]></content>
+        </node>
+        <node type="node/const/group" idtf="Английский язык" shapeColor="0" id="11771824" parent="0" left="0" top="0" right="108" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="621" y="253" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="изображение" shapeColor="0" id="11770384" parent="0" left="0" top="0" right="85" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="621" y="299" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="71070424" parent="0" id_b="11773984" id_e="71789552" b_x="391" b_y="184" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.191564">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71070264" parent="0" id_b="11773840" id_e="71070424" b_x="299" b_y="115" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.457227">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71070104" parent="0" id_b="11773696" id_e="11773120" b_x="621" b_y="207" e_x="506" e_y="207" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71069944" parent="0" id_b="71789432" id_e="11773120" b_x="0" b_y="0" e_x="506" e_y="207" dotBBalance="0.0688259" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71069784" parent="0" id_b="71789432" id_e="11773552" b_x="0" b_y="0" e_x="506" e_y="253" dotBBalance="0.441296" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71069624" parent="0" id_b="11771824" id_e="11773552" b_x="621" b_y="253" e_x="506" e_y="253" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71069464" parent="0" id_b="71789432" id_e="11771680" b_x="0" b_y="0" e_x="506" e_y="299" dotBBalance="0.813765" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71069304" parent="0" id_b="11770384" id_e="11771680" b_x="621" b_y="299" e_x="506" e_y="299" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <bus type="" idtf="" shapeColor="0" id="71789552" parent="0" owner="11774128" b_x="207" b_y="129.5" e_x="207" e_y="414">
+            <points/>
+        </bus>
+        <bus type="" idtf="" shapeColor="0" id="71789432" parent="0" owner="11773984" b_x="391" b_y="198.5" e_x="391" e_y="322">
+            <points/>
+        </bus>
+    </staticSector>
+</GWF>

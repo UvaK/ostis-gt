@@ -1,0 +1,216 @@
+2011-11-16 02:00:33,786 SCNML2SC INFO Start processing ...
+2011-11-16 02:00:36,956 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:36,960 SCNML2SC INFO parsing article:NUM:натуральное число
+2011-11-16 02:00:39,131 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/0.scsy
+2011-11-16 02:00:39,158 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:39,163 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:39,167 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:39,173 SCNML2SC INFO parsing article:OSTIS GT:Бинарная связка
+2011-11-16 02:00:40,849 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/1.scsy
+2011-11-16 02:00:40,936 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:40,940 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:40,944 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:40,948 SCNML2SC INFO parsing article:OSTIS GT:Вершина
+2011-11-16 02:00:42,687 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/2.scsy
+2011-11-16 02:00:42,747 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:42,750 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:42,755 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:42,759 SCNML2SC INFO parsing article:OSTIS GT:Гиперграф
+2011-11-16 02:00:44,506 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/3.scsy
+2011-11-16 02:00:44,588 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:44,592 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:44,596 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:44,601 SCNML2SC INFO parsing article:OSTIS GT:Гипердуга
+2011-11-16 02:00:46,358 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/4.scsy
+2011-11-16 02:00:46,446 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:46,448 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:46,451 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:46,456 SCNML2SC INFO parsing article:OSTIS GT:Гиперребро
+2011-11-16 02:00:48,101 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/5.scsy
+2011-11-16 02:00:48,178 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:48,183 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:48,187 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:48,193 SCNML2SC INFO parsing article:OSTIS GT:Гиперсвязка
+2011-11-16 02:00:49,884 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/6.scsy
+2011-11-16 02:00:49,961 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:49,963 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:49,967 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:49,970 SCNML2SC INFO parsing article:OSTIS GT:Граф
+2011-11-16 02:00:51,678 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/7.scsy
+2011-11-16 02:00:51,740 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:51,743 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:51,749 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:51,753 SCNML2SC INFO parsing article:OSTIS GT:Графовая подструктура
+2011-11-16 02:00:53,747 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/8.scsy
+2011-11-16 02:00:53,849 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:53,854 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:53,858 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:53,864 SCNML2SC INFO parsing article:OSTIS GT:Графовая структура
+2011-11-16 02:00:55,512 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/9.scsy
+2011-11-16 02:00:55,644 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:55,648 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:55,654 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:55,658 SCNML2SC INFO parsing article:OSTIS GT:Графовая структура с неориентированными связками
+2011-11-16 02:00:57,315 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/10.scsy
+2011-11-16 02:00:57,454 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:57,457 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:57,460 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:57,463 SCNML2SC INFO parsing article:OSTIS GT:Графовая структура с ориентированными связками
+2011-11-16 02:00:59,167 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/11.scsy
+2011-11-16 02:00:59,292 SCNML2SC INFO Translation was successful!
+2011-11-16 02:00:59,296 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:00:59,302 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:00:59,308 SCNML2SC INFO parsing article:OSTIS GT:Графовая структура смешанной ориентированности
+2011-11-16 02:01:01,071 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/12.scsy
+2011-11-16 02:01:01,595 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:01,601 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:01,608 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:01,615 SCNML2SC INFO parsing article:OSTIS GT:Дуга
+2011-11-16 02:01:03,279 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/13.scsy
+2011-11-16 02:01:03,351 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:03,355 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:03,361 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:03,368 SCNML2SC INFO parsing article:OSTIS GT:Мультиграф
+2011-11-16 02:01:05,036 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/14.scsy
+2011-11-16 02:01:05,111 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:05,115 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:05,121 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:05,128 SCNML2SC INFO parsing article:OSTIS GT:Неориентированная связка
+2011-11-16 02:01:06,796 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/15.scsy
+2011-11-16 02:01:06,875 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:06,880 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:06,885 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:06,892 SCNML2SC INFO parsing article:OSTIS GT:Объединение графовых структур
+2011-11-16 02:01:08,594 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/16.scsy
+2011-11-16 02:01:08,726 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:08,730 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:08,736 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:08,743 SCNML2SC INFO parsing article:OSTIS GT:Опр.(бинарная связка )
+2011-11-16 02:01:10,470 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/17.scsy
+2011-11-16 02:01:10,782 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:10,788 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:10,793 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:10,799 SCNML2SC INFO parsing article:OSTIS GT:Опр.(гиперграф)
+2011-11-16 02:01:12,486 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/18.scsy
+2011-11-16 02:01:12,884 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:12,891 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:12,898 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:12,904 SCNML2SC INFO parsing article:OSTIS GT:Опр.(гипердуга )
+2011-11-16 02:01:14,581 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/19.scsy
+2011-11-16 02:01:14,877 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:14,881 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:14,888 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:14,895 SCNML2SC INFO parsing article:OSTIS GT:Опр.(гиперребро )
+2011-11-16 02:01:16,540 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/20.scsy
+2011-11-16 02:01:16,835 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:16,838 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:16,845 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:16,849 SCNML2SC INFO parsing article:OSTIS GT:Опр.(гиперсвязка )
+2011-11-16 02:01:18,528 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/21.scsy
+2011-11-16 02:01:18,996 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:19,000 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:19,006 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:19,013 SCNML2SC INFO parsing article:OSTIS GT:Опр.(граф)
+2011-11-16 02:01:20,700 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/22.scsy
+2011-11-16 02:01:21,414 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:21,420 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:21,426 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:21,433 SCNML2SC INFO parsing article:OSTIS GT:Опр.(графовая подструктура*)
+2011-11-16 02:01:23,102 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/23.scsy
+2011-11-16 02:01:23,492 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:23,496 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:23,503 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:23,507 SCNML2SC INFO parsing article:OSTIS GT:Опр.(графовая структура смешанной ориентированности)
+2011-11-16 02:01:25,187 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/24.scsy
+2011-11-16 02:01:25,793 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:25,799 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:25,806 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:25,813 SCNML2SC INFO parsing article:OSTIS GT:Опр.(графовая структура)
+2011-11-16 02:01:27,496 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/25.scsy
+2011-11-16 02:01:27,697 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:27,703 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:27,709 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:27,714 SCNML2SC INFO parsing article:OSTIS GT:Опр.(дуга )
+2011-11-16 02:01:29,361 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/26.scsy
+2011-11-16 02:01:29,665 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:29,670 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:29,676 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:29,681 SCNML2SC INFO parsing article:OSTIS GT:Опр.(мультиграф)
+2011-11-16 02:01:31,424 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/27.scsy
+2011-11-16 02:01:31,802 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:31,808 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:31,812 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:31,819 SCNML2SC INFO parsing article:OSTIS GT:Опр.(неориентированная связка )
+2011-11-16 02:01:33,506 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/28.scsy
+2011-11-16 02:01:33,874 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:33,878 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:33,884 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:33,890 SCNML2SC INFO parsing article:OSTIS GT:Опр.(объединение графовых структур*)
+2011-11-16 02:01:35,601 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/29.scsy
+2011-11-16 02:01:36,157 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:36,164 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:36,170 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:36,177 SCNML2SC INFO parsing article:OSTIS GT:Опр.(ориентированная связка )
+2011-11-16 02:01:37,849 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/30.scsy
+2011-11-16 02:01:38,246 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:38,252 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:38,259 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:38,266 SCNML2SC INFO parsing article:OSTIS GT:Опр.(петля )
+2011-11-16 02:01:39,986 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/31.scsy
+2011-11-16 02:01:40,032 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:40,036 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:40,042 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:40,049 SCNML2SC INFO parsing article:OSTIS GT:Опр.(псевдограф)
+2011-11-16 02:01:41,710 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/32.scsy
+2011-11-16 02:01:42,111 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:42,115 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:42,121 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:42,127 SCNML2SC INFO parsing article:OSTIS GT:Опр.(ребро )
+2011-11-16 02:01:43,872 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/33.scsy
+2011-11-16 02:01:44,217 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:44,221 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:44,227 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:44,233 SCNML2SC INFO parsing article:OSTIS GT:Опр.(связка )
+2011-11-16 02:01:46,000 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/34.scsy
+2011-11-16 02:01:46,476 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:46,480 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:46,490 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:46,496 SCNML2SC INFO parsing article:OSTIS GT:Опр.(степень вершины*)
+2011-11-16 02:01:48,196 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/35.scsy
+2011-11-16 02:01:48,233 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:48,237 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:48,243 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:48,250 SCNML2SC INFO parsing article:OSTIS GT:Ориентированная связка
+2011-11-16 02:01:49,898 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/36.scsy
+2011-11-16 02:01:49,969 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:49,973 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:49,979 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:49,984 SCNML2SC INFO parsing article:OSTIS GT:Пересечение графовых структур
+2011-11-16 02:01:51,694 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/37.scsy
+2011-11-16 02:01:51,859 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:51,865 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:51,871 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:51,878 SCNML2SC INFO parsing article:OSTIS GT:Петля
+2011-11-16 02:01:53,553 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/38.scsy
+2011-11-16 02:01:53,631 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:53,637 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:53,642 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:53,651 SCNML2SC INFO parsing article:OSTIS GT:Псевдограф
+2011-11-16 02:01:55,338 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/39.scsy
+2011-11-16 02:01:55,444 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:55,450 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:55,457 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:55,464 SCNML2SC INFO parsing article:OSTIS GT:Ребро
+2011-11-16 02:01:57,109 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/40.scsy
+2011-11-16 02:01:57,197 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:57,200 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:57,207 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:57,213 SCNML2SC INFO parsing article:OSTIS GT:Связка
+2011-11-16 02:01:58,887 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/41.scsy
+2011-11-16 02:01:58,969 SCNML2SC INFO Translation was successful!
+2011-11-16 02:01:58,973 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 02:01:58,977 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 02:01:58,983 SCNML2SC INFO parsing article:OSTIS GT:Степень вершины
+2011-11-16 02:02:00,598 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/42.scsy
+2011-11-16 02:02:00,691 SCNML2SC INFO Translation was successful!
+2011-11-16 02:02:00,697 SCNML2SC INFO ---------------------End---------------------

@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="windows-1251"?>
+
+<GWF version="1.6">
+<staticSector>
+<node type="node/const/group" x="20" y="20" idtf="произнести текст" id="87675000" shapeColor="16728128" left="27" top="17.1406" right="172.068" bottom="36.8594" textColor="8421631" text_angle="0" text_font="Times New Roman" font_size="12" show_content="false" parent="87618892" haveBus="false">
+<content type="0" mime_type="content/base" file_name="">
+</content>
+</node>
+</staticSector>
+</GWF>

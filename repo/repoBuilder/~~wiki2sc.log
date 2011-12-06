@@ -1,0 +1,219 @@
+2011-11-16 01:45:28,842 SCNML2SC INFO Start processing ...
+2011-11-16 01:45:30,871 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:30,877 SCNML2SC INFO parsing article:язык множеств:Ѕесконечное множество
+2011-11-16 01:45:31,549 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/0.scsy
+2011-11-16 01:45:31,579 SCNML2SC ERROR Syntax error in article язык множеств:Ѕесконечное множество:
+2011-11-16 01:45:31,585 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:31,588 SCNML2SC ERROR Line:
+2011-11-16 01:45:31,588 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|бесконечное множество}}}}
+2011-11-16 01:45:31,595 SCNML2SC ERROR   ^
+2011-11-16 01:45:31,595 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:31,601 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:31,605 SCNML2SC INFO parsing article:язык множеств:¬ключение
+2011-11-16 01:45:33,404 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/1.scsy
+2011-11-16 01:45:33,408 SCNML2SC ERROR Syntax error in article язык множеств:¬ключение:
+2011-11-16 01:45:33,414 SCNML2SC ERROR Invalid line є: 1
+2011-11-16 01:45:33,417 SCNML2SC ERROR Line:
+2011-11-16 01:45:33,417 SCNML2SC ERROR #перенаправление [[язык множеств:включение*]] [[ атегори€:язык множеств|¬ключение]] [[ атегори€:язык отношений|¬ключение]]
+2011-11-16 01:45:33,433 SCNML2SC ERROR ^
+2011-11-16 01:45:33,434 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:33,437 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:33,440 SCNML2SC INFO parsing article:язык множеств: анторовское множество
+2011-11-16 01:45:33,815 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/2.scsy
+2011-11-16 01:45:33,822 SCNML2SC ERROR Syntax error in article язык множеств: анторовское множество:
+2011-11-16 01:45:33,828 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:33,831 SCNML2SC ERROR Line:
+2011-11-16 01:45:33,832 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|канторовское множество}}}}
+2011-11-16 01:45:33,838 SCNML2SC ERROR   ^
+2011-11-16 01:45:33,839 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:33,845 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:33,849 SCNML2SC INFO parsing article:язык множеств: онечное множество
+2011-11-16 01:45:34,157 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/3.scsy
+2011-11-16 01:45:34,163 SCNML2SC ERROR Syntax error in article язык множеств: онечное множество:
+2011-11-16 01:45:34,170 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:34,171 SCNML2SC ERROR Line:
+2011-11-16 01:45:34,173 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|конечное множество}}}}
+2011-11-16 01:45:34,180 SCNML2SC ERROR   ^
+2011-11-16 01:45:34,183 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:34,190 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:34,197 SCNML2SC INFO parsing article:язык множеств:ћножество
+2011-11-16 01:45:34,770 SCNML2SC INFO load images for article: язык множеств:ћножество
+2011-11-16 01:45:34,776 SCNML2SC INFO load image: ‘айл:Set example 1.jpg
+2011-11-16 01:45:36,368 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/4.scsy
+2011-11-16 01:45:36,374 SCNML2SC ERROR Syntax error in article язык множеств:ћножество:
+2011-11-16 01:45:36,381 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:36,384 SCNML2SC ERROR Line:
+2011-11-16 01:45:36,387 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|множество}}}}
+2011-11-16 01:45:36,394 SCNML2SC ERROR   ^
+2011-11-16 01:45:36,395 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:36,404 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:36,411 SCNML2SC INFO parsing article:язык множеств:ћультимножество
+2011-11-16 01:45:36,763 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/5.scsy
+2011-11-16 01:45:36,772 SCNML2SC ERROR Syntax error in article язык множеств:ћультимножество:
+2011-11-16 01:45:36,779 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:36,782 SCNML2SC ERROR Line:
+2011-11-16 01:45:36,786 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|мультимножество}}}}
+2011-11-16 01:45:36,793 SCNML2SC ERROR   ^
+2011-11-16 01:45:36,796 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:36,803 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:36,811 SCNML2SC INFO parsing article:язык множеств:Ќерефлексивное множество
+2011-11-16 01:45:38,165 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/6.scsy
+2011-11-16 01:45:38,174 SCNML2SC ERROR Syntax error in article язык множеств:Ќерефлексивное множество:
+2011-11-16 01:45:38,180 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:38,184 SCNML2SC ERROR Line:
+2011-11-16 01:45:38,187 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|нерефлексивное множество}}}}
+2011-11-16 01:45:38,194 SCNML2SC ERROR   ^
+2011-11-16 01:45:38,197 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:38,203 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:38,207 SCNML2SC INFO parsing article:язык множеств:ЌесчЄтное множество
+2011-11-16 01:45:38,555 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/7.scsy
+2011-11-16 01:45:38,562 SCNML2SC ERROR Syntax error in article язык множеств:ЌесчЄтное множество:
+2011-11-16 01:45:38,572 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:38,575 SCNML2SC ERROR Line:
+2011-11-16 01:45:38,578 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|несчЄтное множество}}}}
+2011-11-16 01:45:38,586 SCNML2SC ERROR   ^
+2011-11-16 01:45:38,588 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:38,596 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:38,604 SCNML2SC INFO parsing article:язык множеств:Ќетранзитивное множество
+2011-11-16 01:45:38,930 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/8.scsy
+2011-11-16 01:45:38,937 SCNML2SC ERROR Syntax error in article язык множеств:Ќетранзитивное множество:
+2011-11-16 01:45:38,946 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:38,950 SCNML2SC ERROR Line:
+2011-11-16 01:45:38,953 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|нетранзитивное множество}}}}
+2011-11-16 01:45:38,961 SCNML2SC ERROR   ^
+2011-11-16 01:45:38,963 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:38,971 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:38,979 SCNML2SC INFO parsing article:язык множеств:ќбъединение
+2011-11-16 01:45:39,410 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/9.scsy
+2011-11-16 01:45:39,417 SCNML2SC ERROR Syntax error in article язык множеств:ќбъединение:
+2011-11-16 01:45:39,424 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:39,428 SCNML2SC ERROR Line:
+2011-11-16 01:45:39,430 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|объединение*}}}}
+2011-11-16 01:45:39,438 SCNML2SC ERROR   ^
+2011-11-16 01:45:39,440 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:39,457 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:39,476 SCNML2SC INFO parsing article:язык множеств:ѕара
+2011-11-16 01:45:39,878 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/10.scsy
+2011-11-16 01:45:39,884 SCNML2SC ERROR Syntax error in article язык множеств:ѕара:
+2011-11-16 01:45:39,888 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:39,894 SCNML2SC ERROR Line:
+2011-11-16 01:45:39,898 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|пара}}}}
+2011-11-16 01:45:39,904 SCNML2SC ERROR   ^
+2011-11-16 01:45:39,907 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:39,914 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:39,923 SCNML2SC INFO parsing article:язык множеств:ѕересечение
+2011-11-16 01:45:40,286 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/11.scsy
+2011-11-16 01:45:40,296 SCNML2SC ERROR Syntax error in article язык множеств:ѕересечение:
+2011-11-16 01:45:40,303 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:40,308 SCNML2SC ERROR Line:
+2011-11-16 01:45:40,309 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|пересечение*}}}}
+2011-11-16 01:45:40,316 SCNML2SC ERROR   ^
+2011-11-16 01:45:40,318 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:40,325 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:40,332 SCNML2SC INFO parsing article:язык множеств:ѕустое множество
+2011-11-16 01:45:40,710 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/12.scsy
+2011-11-16 01:45:40,720 SCNML2SC ERROR Syntax error in article язык множеств:ѕустое множество:
+2011-11-16 01:45:40,729 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:40,733 SCNML2SC ERROR Line:
+2011-11-16 01:45:40,734 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|пустое множество}}}}
+2011-11-16 01:45:40,740 SCNML2SC ERROR   ^
+2011-11-16 01:45:40,742 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:40,746 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:40,752 SCNML2SC INFO parsing article:язык множеств:ѕ€тЄрка
+2011-11-16 01:45:41,042 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/13.scsy
+2011-11-16 01:45:41,048 SCNML2SC ERROR Syntax error in article язык множеств:ѕ€тЄрка:
+2011-11-16 01:45:41,052 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:41,055 SCNML2SC ERROR Line:
+2011-11-16 01:45:41,056 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|п€тЄрка}}}}
+2011-11-16 01:45:41,062 SCNML2SC ERROR   ^
+2011-11-16 01:45:41,063 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:41,069 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:41,076 SCNML2SC INFO parsing article:язык множеств:–авенство
+2011-11-16 01:45:41,433 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/14.scsy
+2011-11-16 01:45:41,446 SCNML2SC ERROR Syntax error in article язык множеств:–авенство:
+2011-11-16 01:45:41,453 SCNML2SC ERROR Invalid line є: 1
+2011-11-16 01:45:41,457 SCNML2SC ERROR Line:
+2011-11-16 01:45:41,460 SCNML2SC ERROR #перенаправление [[язык множеств:равенство*]]
+2011-11-16 01:45:41,467 SCNML2SC ERROR ^
+2011-11-16 01:45:41,471 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:41,479 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:41,484 SCNML2SC INFO parsing article:язык множеств:–азбиение
+2011-11-16 01:45:41,813 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/15.scsy
+2011-11-16 01:45:41,825 SCNML2SC ERROR Syntax error in article язык множеств:–азбиение:
+2011-11-16 01:45:41,832 SCNML2SC ERROR Invalid line є: 1
+2011-11-16 01:45:41,836 SCNML2SC ERROR Line:
+2011-11-16 01:45:41,841 SCNML2SC ERROR #перенаправление [[язык множеств:разбиение*]]
+2011-11-16 01:45:41,848 SCNML2SC ERROR ^
+2011-11-16 01:45:41,849 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:41,858 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:41,865 SCNML2SC INFO parsing article:язык множеств:–ефлексивное множество
+2011-11-16 01:45:42,223 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/16.scsy
+2011-11-16 01:45:42,236 SCNML2SC ERROR Syntax error in article язык множеств:–ефлексивное множество:
+2011-11-16 01:45:42,244 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:42,249 SCNML2SC ERROR Line:
+2011-11-16 01:45:42,250 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|рефлексивное множество}}}}
+2011-11-16 01:45:42,266 SCNML2SC ERROR   ^
+2011-11-16 01:45:42,270 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:42,278 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:42,285 SCNML2SC INFO parsing article:язык множеств:—емантически нормализованное множество
+2011-11-16 01:45:42,697 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/17.scsy
+2011-11-16 01:45:42,707 SCNML2SC ERROR Syntax error in article язык множеств:—емантически нормализованное множество:
+2011-11-16 01:45:42,719 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:42,723 SCNML2SC ERROR Line:
+2011-11-16 01:45:42,727 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|семантически нормализованное множество}}}}
+2011-11-16 01:45:42,737 SCNML2SC ERROR   ^
+2011-11-16 01:45:42,743 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:42,749 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:42,753 SCNML2SC INFO parsing article:язык множеств:—инглетон
+2011-11-16 01:45:43,069 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/18.scsy
+2011-11-16 01:45:43,078 SCNML2SC ERROR Syntax error in article язык множеств:—инглетон:
+2011-11-16 01:45:43,085 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:43,089 SCNML2SC ERROR Line:
+2011-11-16 01:45:43,092 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|синглетон}}}}
+2011-11-16 01:45:43,098 SCNML2SC ERROR   ^
+2011-11-16 01:45:43,102 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:43,108 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:43,115 SCNML2SC INFO parsing article:язык множеств:—трогое включение
+2011-11-16 01:45:43,497 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/19.scsy
+2011-11-16 01:45:43,505 SCNML2SC ERROR Syntax error in article язык множеств:—трогое включение:
+2011-11-16 01:45:43,513 SCNML2SC ERROR Invalid line є: 1
+2011-11-16 01:45:43,519 SCNML2SC ERROR Line:
+2011-11-16 01:45:43,522 SCNML2SC ERROR #перенаправление [[язык множеств:строгое включение*]]
+2011-11-16 01:45:43,529 SCNML2SC ERROR ^
+2011-11-16 01:45:43,535 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:43,542 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:43,546 SCNML2SC INFO parsing article:язык множеств:—чЄтное множество
+2011-11-16 01:45:43,888 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/20.scsy
+2011-11-16 01:45:43,901 SCNML2SC ERROR Syntax error in article язык множеств:—чЄтное множество:
+2011-11-16 01:45:43,908 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:43,914 SCNML2SC ERROR Line:
+2011-11-16 01:45:43,918 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|счЄтное множество}}}}
+2011-11-16 01:45:43,926 SCNML2SC ERROR   ^
+2011-11-16 01:45:43,927 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:43,937 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:43,944 SCNML2SC INFO parsing article:язык множеств:“ранзитивное множество
+2011-11-16 01:45:44,292 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/21.scsy
+2011-11-16 01:45:44,301 SCNML2SC ERROR Syntax error in article язык множеств:“ранзитивное множество:
+2011-11-16 01:45:44,309 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:44,313 SCNML2SC ERROR Line:
+2011-11-16 01:45:44,318 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|транзитивное множество}}}}
+2011-11-16 01:45:44,326 SCNML2SC ERROR   ^
+2011-11-16 01:45:44,331 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:44,336 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:44,342 SCNML2SC INFO parsing article:язык множеств:“ройка
+2011-11-16 01:45:44,717 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/22.scsy
+2011-11-16 01:45:44,729 SCNML2SC ERROR Syntax error in article язык множеств:“ройка:
+2011-11-16 01:45:44,736 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:44,740 SCNML2SC ERROR Line:
+2011-11-16 01:45:44,743 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|тройка}}}}
+2011-11-16 01:45:44,750 SCNML2SC ERROR   ^
+2011-11-16 01:45:44,753 SCNML2SC INFO ---------------------End---------------------
+2011-11-16 01:45:44,759 SCNML2SC INFO --------------------Begin--------------------
+2011-11-16 01:45:44,767 SCNML2SC INFO parsing article:язык множеств:„етвЄрка
+2011-11-16 01:45:45,052 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/23.scsy
+2011-11-16 01:45:45,062 SCNML2SC ERROR Syntax error in article язык множеств:„етвЄрка:
+2011-11-16 01:45:45,071 SCNML2SC ERROR Invalid line є: 3
+2011-11-16 01:45:45,075 SCNML2SC ERROR Line:
+2011-11-16 01:45:45,079 SCNML2SC ERROR {{SCnFieldConcept|{{SCnTextMain|четвЄрка}}}}
+2011-11-16 01:45:45,088 SCNML2SC ERROR   ^
+2011-11-16 01:45:45,092 SCNML2SC INFO ---------------------End---------------------

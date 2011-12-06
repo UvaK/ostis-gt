@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="1.6">
+    <staticSector>
+        <node type="node/var/general_node" idtf="" shapeColor="0" id="31451840" parent="89305808" x="253" y="621" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/not_define" idtf="ui_arg_1" shapeColor="0" id="31452128" parent="89305808" left="0" top="0" right="59" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="253" y="690" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="вопрос" shapeColor="0" id="31450832" parent="89305808" left="0" top="0" right="48" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="253" y="529" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="поиск отношения, области определения которых являются надмножеством описываемого множества и каждая связка которых связывает элементы описываемого множества между собой*" shapeColor="0" id="31449968" parent="89305808" left="0" top="0" right="1154" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="322" y="552" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <arc type="arc/var/pos" idtf="" shapeColor="0" id="81837440" parent="89305808" id_b="31450832" id_e="31451840" b_x="253" b_y="529" e_x="253" e_y="621" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/var/pos" idtf="" shapeColor="0" id="81839520" parent="89305808" id_b="31451840" id_e="31452128" b_x="253" b_y="621" e_x="253" e_y="690" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/var/pos" idtf="" shapeColor="0" id="81840640" parent="89305808" id_b="31449968" id_e="31451840" b_x="322" b_y="552" e_x="253" e_y="621" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <contour type="" idtf="" shapeColor="0" id="89305808" parent="0">
+            <points>
+                <point x="230" y="713"/>
+                <point x="644" y="713"/>
+                <point x="644" y="506"/>
+                <point x="230" y="506"/>
+                <point x="230" y="713"/>
+            </points>
+        </contour>
+        <node type="node/const/group" idtf="Русский язык" shapeColor="0" id="88931840" parent="0" left="0" top="0" right="86" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="690" y="253" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="31454288" parent="0" x="472" y="254" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Поиск отношения, области определения которых 
+являются надмножеством описываемого множества 
+и каждая связка которых связывает элементы 
+описываемого множества между собой]]></content>
+        </node>
+        <node type="node/const/relation" idtf="идентификация*" shapeColor="0" id="88929536" parent="0" left="0" top="0" right="109" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="230" y="207" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/asymmetry" idtf="" shapeColor="0" id="88930688" parent="0" x="276" y="253" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="обобщенная формулировка вопроса*" shapeColor="0" id="88928384" parent="0" left="0" top="0" right="224" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="184" y="483" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="$a_dl1" shapeColor="0" id="88929248" parent="0" left="0" top="0" right="47" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="115" y="253" haveBus="true">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="атомарная команда" shapeColor="0" id="88928816" parent="0" left="0" top="0" right="129" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="115" y="115" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="команда вопрос" shapeColor="0" id="88928096" parent="0" left="0" top="0" right="101" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="138" y="161" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="81840160" parent="0" id_b="88928384" id_e="81839040" b_x="184" b_y="483" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.400764">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="81839040" parent="0" id_b="89305808" id_e="81835512" b_x="444.684" b_y="607" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.657674">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="81839200" parent="0" id_b="88930688" id_e="88929248" b_x="276" b_y="253" e_x="115" e_y="253" dotBBalance="0" dotEBalance="0.106133">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="81840000" parent="0" id_b="88928816" id_e="88929248" b_x="115" b_y="115" e_x="115" e_y="253" dotBBalance="0" dotEBalance="0.0135566">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="81839680" parent="0" id_b="88928096" id_e="88929248" b_x="138" b_y="161" e_x="115" e_y="253" dotBBalance="0" dotEBalance="0.0129666">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="81839360" parent="0" id_b="88931840" id_e="31454288" b_x="690" b_y="253" e_x="472" e_y="254" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="81838560" parent="0" id_b="88929536" id_e="81839200" b_x="230" b_y="207" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.238636">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="81840480" parent="0" id_b="88930688" id_e="31454288" b_x="276" b_y="253" e_x="472" e_y="254" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <bus type="" idtf="" shapeColor="0" id="81835512" parent="0" owner="88929248" b_x="115" b_y="267.5" e_x="115" e_y="805">
+            <points/>
+        </bus>
+    </staticSector>
+</GWF>

@@ -1,0 +1,7 @@
+#include "ordinal.scsy"
+#include "meta_info.scsy"
+#include "ui_keynodes.scsy"
+test\lui_test.gwf
+test\s2t_test1.gwf
+test\тест поиска отношения.gwf
+
