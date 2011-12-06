@@ -1,0 +1,17 @@
+repo/fs_repo/
+.project
+.pydevproject
+MyGUI.log
+Ogre.log
+components/
+docs/
+make_exe/
+media/
+media_src/
+ogre.cfg
+operations/
+plugins.cfg
+plugins/
+resources.cfg
+srs.log
+start.py
