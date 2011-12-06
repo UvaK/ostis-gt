@@ -32,6 +32,7 @@ stype_bin_orient_role_rel->"дуга_";
 stype_relation->"объединение графовых структур*";
 stype_bin_orient_role_rel->"петля_";
 stype_bin_orient_role_rel->"ориентированная связка_";
+stype_bin_orient_role_rel->"ребро_";
 stype_relation->"пересечение графовых структур*";
 stype_relation->"степень вершины*";
-stype_bin_orient_role_rel->"ребро_";
+stype_relation->"порядок графовой структуры*";

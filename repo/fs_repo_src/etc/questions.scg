@@ -2,6 +2,6 @@
 #include "meta_info.scsy"
 #include "ui_keynodes.scsy"
 questions_src\questions_keynodes.gwf
-questions_src\спец.поиск иллюстрации объекта.gwf
-questions_src\спец.поиск полной семантической окрестности.gwf
+questions_src\СЃРїРµС†.РїРѕРёСЃРє РёР»Р»СЋСЃС‚СЂР°С†РёРё РѕР±СЉРµРєС‚Р°.gwf
+questions_src\СЃРїРµС†.РїРѕРёСЃРє РїРѕР»РЅРѕР№ СЃРµРјР°РЅС‚РёС‡РµСЃРєРѕР№ РѕРєСЂРµСЃС‚РЅРѕСЃС‚Рё.gwf
 

@@ -41,6 +41,8 @@
 #include "planimetry_src\40.scsy"
 #include "planimetry_src\41.scsy"
 #include "planimetry_src\42.scsy"
+#include "planimetry_src\43.scsy"
+#include "planimetry_src\44.scsy"
 #include "planimetry_src\5.scsy"
 #include "planimetry_src\6.scsy"
 #include "planimetry_src\7.scsy"

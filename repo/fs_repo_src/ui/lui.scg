@@ -2,12 +2,12 @@
 #include "meta_info.scsy"
 #include "ui_keynodes.scsy"
 lui\keynodes.gwf
-lui\patterns\шаблон(идентификация).gwf
-lui\patterns\шаблон(определение).gwf
-lui\patterns\шаблон(отн.обл.опр.пересек.).gwf
-lui\patterns\шаблон(отн.обл.опр.явл.надмн.).gwf
-lui\patterns\шаблон(пояснение).gwf
-lui\patterns\шаблон(разбиение).gwf
-lui\patterns\шаблон(утв.опр.типа).gwf
-lui\patterns\шаблон(утверждения).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(РёРґРµРЅС‚РёС„РёРєР°С†РёСЏ).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(РѕРїСЂРµРґРµР»РµРЅРёРµ).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(РѕС‚РЅ.РѕР±Р».РѕРїСЂ.РїРµСЂРµСЃРµРє.).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(РѕС‚РЅ.РѕР±Р».РѕРїСЂ.СЏРІР».РЅР°РґРјРЅ.).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(РїРѕСЏСЃРЅРµРЅРёРµ).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(СЂР°Р·Р±РёРµРЅРёРµ).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(СѓС‚РІ.РѕРїСЂ.С‚РёРїР°).gwf
+lui\patterns\С€Р°Р±Р»РѕРЅ(СѓС‚РІРµСЂР¶РґРµРЅРёСЏ).gwf
 
